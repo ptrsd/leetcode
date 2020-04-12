@@ -23,3 +23,10 @@ go test .
 [Source code](github.com/ptrsd/leetcode/122/)
 
 [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+
+**1046. Last Stone Weight**
+
+[Source code](github.com/ptrsd/leetcode/122/)
+
+[Problem](https://leetcode.com/problems/last-stone-weight/)
+
