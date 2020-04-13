@@ -14,19 +14,19 @@ go test .
 
 **121. Best Time to Buy and Sell Stock**
 
-[Source code](github.com/ptrsd/leetcode/121/)
+[Source code](https://github.com/ptrsd/leetcode/tree/master/121)
 
 [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 **122. Best Time to Buy and Sell Stock II**
 
-[Source code](github.com/ptrsd/leetcode/122/)
+[Source code](https://github.com/ptrsd/leetcode/tree/master/122)
 
 [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
 **1046. Last Stone Weight**
 
-[Source code](github.com/ptrsd/leetcode/122/)
+[Source code](https://github.com/ptrsd/leetcode/tree/master/1046)
 
 [Problem](https://leetcode.com/problems/last-stone-weight/)
 
