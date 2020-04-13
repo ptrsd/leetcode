@@ -26,7 +26,11 @@ go test .
 
 **1046. Last Stone Weight**
 
-[Source code](https://github.com/ptrsd/leetcode/tree/master/1046)
+## Medium
 
-[Problem](https://leetcode.com/problems/last-stone-weight/)
+**525. Contiguous Array**
+
+[Source code](https://github.com/ptrsd/leetcode/tree/master/525)
+
+[Problem](https://leetcode.com/problems/contiguous-array/)
 
